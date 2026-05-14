@@ -1,34 +1,76 @@
-<h1 align="center">Hello 👋, I'm Bhathrinaathan</h1>
-<h3 align="center">An Enthusiastic web developer from India</h3>
+<!-- README for: github.com/Bhathrinaathan/Bhathrinaathan -->
+<!-- Place this in the special "Bhathrinaathan" repository to display on your GitHub profile -->
 
-- 🔭 I’m currently working on **React**
+<div align="center">
 
-- 💬 Ask me about **ReactJS, ExpressJS**
+# Bhathrinaathan M B
 
-- 📫 Reach me thru **bhathrinaathanmb@gmail.com**
+**MSc Computer Science — Intelligent Systems**
+*Trinity College Dublin · Dublin, Ireland*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhathrinaathan-muthuramalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhathrinaathan-muthuramalingam" height="30" width="40" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-E89849?style=for-the-badge&logo=react&logoColor=white)](https://bhathrinaathan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhathrinaathan-muthuramalingam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthurab@tcd.ie)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhathrinaathan&show_icons=true&locale=en&layout=compact" alt="bhathrinaathan" /></p>
-<!--
-<p class="has-line-data" data-line-start="0" data-line-end="3">
-  <a href="https://leetcode.com/bhathrinaathanmb/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Solved&amp;query=solvedPercentage&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbhathrinaathanmb&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode user bhathrinaathanmb">
-  </a>
-  <br>
-  <br>
-  <!-- Container for side-by-side images -->
-  <!--
-  <div style="display: flex; gap: 10px; justify-content: space-between; align-items: center;">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=bhathrinaathanmb&amp;theme=dark&amp;border=border&amp;animated=true" alt="" style="width: 48%;">
-    <img src="https://leetcard.jacoblin.cool/bhathrinaathanmb?" alt="" style="width: 48%;">
-  </div>
-</p>
--->
+### About
+
+```yaml
+focus:        Intelligent Systems · AI · Full-Stack Development
+currently:    MSc @ Trinity College Dublin
+interests:    LLMs · Information Retrieval · Web Engineering
+based-in:     Dublin, Ireland
+```
+
+I'm a postgraduate student exploring the intersection of intelligent systems and software engineering. Previously built full-stack applications and automation pipelines as a Web Developer at gCurv Technologies. Currently focused on AI/ML systems and applied research.
+
+---
+
+### Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Data & Infrastructure**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### Certifications
+
+- **Oracle Cloud Infrastructure 2025** — Certified AI Foundations Associate
+- **Oracle Cloud Infrastructure 2025** — Certified Generative AI Professional
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bhathrinaathan&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&bg_color=faf9f7&title_color=E89849&text_color=1a1a18)
+![Stats](https://github-readme-stats.vercel.app/api?username=bhathrinaathan&show_icons=true&hide_border=true&bg_color=faf9f7&title_color=E89849&text_color=1a1a18&icon_color=E89849)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>📍 Open to opportunities in AI, full-stack development, and applied research</sub>
+</div>
