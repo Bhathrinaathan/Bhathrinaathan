@@ -22,11 +22,12 @@ role:          Software Engineer · AI / ML
 education:     MSc Computer Science (Intelligent Systems), Trinity College Dublin — 2026 graduate
 learning_now:  Agentic AI · RAG systems · LLM-focused projects
 curious_about: how minds work, artificial and human
+talk_to_me_about: neuroscience · cars · films
 based_in:      Dublin, Ireland
 status:        open to software engineering, AI / ML and analyst roles in Dublin — available to start now
 ```
 
-I build things end to end, from data pipelines and models to the Java and React applications they ship in. My MSc work covered small GPT transformers in PyTorch, NLP, reinforcement-learning agents, knowledge graphs and an LLM-assisted disaster-response platform; before that I spent 14 months as a web developer intern at gCurv Technologies. Outside code I read neuroscience, which is where the curiosity about minds comes from.
+I build things end to end, from data pipelines and models to the Java and React applications they ship in. My MSc work covered small GPT transformers in PyTorch, NLP, reinforcement-learning agents, knowledge graphs and an LLM-assisted disaster-response platform; before that I spent 14 months as a web developer intern at gCurv Technologies. Outside code I read neuroscience, which is where the curiosity about minds comes from; I'm also happy to talk cars and films.
 
 ---
 
